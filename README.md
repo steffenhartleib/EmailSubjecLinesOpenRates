@@ -2,7 +2,7 @@
 
 **DRAFT**
 
-I looked at the relationship between e-mail subject lines and open and click through rates at a daily deal site for Vinyl Collectors.
+This is an R script looking at the relationship between e-mail subject lines and open and click through rates at a daily deal site for Vinyl Collectors.
 The data set includes ove 500 email campaigns sent in 2016.<br />
 <br />
 Features for the multi variate regression model include:
@@ -25,6 +25,7 @@ Categorical variables for words like:
 * Save
 
 etc.
+
 
 
 
