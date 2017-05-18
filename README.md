@@ -6,7 +6,7 @@ I looked at the relationship between e-mail subject lines and open and click thr
 The data set includes ove 500 email campaigns sent in 2016.<br />
 <br />
 Features for the multi variate regression model include:
-* The total revenue we generated from the artist mentioned in the subject line. If no artist mentioned, it's $0. (As a proxy of the popularity of the artist)
+* The total revenue we generated from the artist mentioned in the subject line, as proxy of the popularity of the artist. If no artist is mentioned, the value is $0
 * The time sent
 * Weekday sent
 * $ amount off 
